@@ -1,5 +1,5 @@
 # Mauro Moreno
-Hey there, i'm Mauro!
-Computer Science at Unisul(2019 - 2024)
-Always looking for more knowledge
+Hey there, i'm Mauro!<br>
+Computer Science at Unisul(2019 - 2024)<br>
+Always looking for more knowledge<br>
 Currently learning PHP
